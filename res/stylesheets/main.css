@@ -1,0 +1,14 @@
+@import url('layout.css');
+@import url('editor.css');
+@import url('preview.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+}

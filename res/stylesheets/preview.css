@@ -1,0 +1,10 @@
+.preview {
+    grid-area: right;
+    overflow: hidden;
+}
+
+.preview > iframe {
+    height: 100%;
+    width: 100%;
+}
+
